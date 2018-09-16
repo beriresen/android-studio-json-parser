@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+    <array name="iller">
+        <item>Ankara</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Bursa</item>
+        <item>Adana</item>
+        <item>Kocaeli</item>
+        <item>Samsun</item>
+        <item>Trabzon</item>
+        <item>Erzurum</item>
+        <item>Diyarbakır</item>
+        <item>Gaziantep</item>
+        <item>Antalya</item>
+    </array>
+</resources>
